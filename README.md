@@ -47,6 +47,15 @@
 | [**ft_irc**](https://github.com/ozkyhatice/FT_IRC) | Internet Relay Chat server implementation | C++, Network Programming |
 | [**cub3d**](https://github.com/ozkyhatice/cub3d) | 3D graphical project using raycasting | C, MinilibX |
 | [**NetPractice**](https://github.com/ozkyhatice) | Network configuration and troubleshooting | TCP/IP, Networking |
+| [**Philosophers**](https://github.com/ozkyhatice/philosophers) | Thread and process synchronization | C, Threads |
+| [**minishell**](https://github.com/ozkyhatice/MINISHELL) | Simple shell implementation | C, Process Management |
+| [**push_swap**](https://github.com/ozkyhatice) | Number sorting algorithm | C, Algorithms |
+| [**so_long**](https://github.com/ozkyhatice) | Small 2D game using MinilibX | C, Graphics |
+| [**minitalk**](https://github.com/ozkyhatice/minitalk) | Data exchange program using signals | C, UNIX Signals |
+| [**Born2beroot**](https://github.com/ozkyhatice) | System administration and VM setup | Linux, Bash |
+| [**get_next_line**](https://github.com/ozkyhatice/get_next_line) | File reading function | C, File I/O |
+| [**ft_printf**](https://github.com/ozkyhatice/FT_PRINTF) | Printf function recreation | C, Variadic Functions |
+| [**Libft**](https://github.com/ozkyhatice/_LIBFT_) | C library functions recreation | C, Data Structures |
 
 ### 💻 C++ Modules
 | Module | Description | Concepts |
@@ -62,16 +71,15 @@
 | Module 01 | Memory allocation, pointers | Memory Management |
 | Module 00 | Namespaces, classes, member functions | OOP Basics |
 
-
-| [**Philosophers**](https://github.com/ozkyhatice/philosophers) | Thread and process synchronization | C, Threads |
-| [**minishell**](https://github.com/ozkyhatice/MINISHELL) | Simple shell implementation | C, Process Management |
-| [**push_swap**](https://github.com/ozkyhatice) | Number sorting algorithm | C, Algorithms |
-| [**so_long**](https://github.com/ozkyhatice) | Small 2D game using MinilibX | C, Graphics |
-| [**minitalk**](https://github.com/ozkyhatice/minitalk) | Data exchange program using signals | C, UNIX Signals |
-| [**Born2beroot**](https://github.com/ozkyhatice) | System administration and VM setup | Linux, Bash |
-| [**get_next_line**](https://github.com/ozkyhatice/get_next_line) | File reading function | C, File I/O |
-| [**ft_printf**](https://github.com/ozkyhatice/FT_PRINTF) | Printf function recreation | C, Variadic Functions |
-| [**Libft**](https://github.com/ozkyhatice/_LIBFT_) | C library functions recreation | C, Data Structures |
+## 🐍 Python Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Data Structures**](https://github.com/ozkyhatice/_PYTHON_) | Implementation of various data structures | Python |
+| [**Algorithm Practice**](https://github.com/ozkyhatice/_PYTHON_) | Solutions to algorithmic problems | Python |
+| [**Data Analysis**](https://github.com/ozkyhatice/_PYTHON_) | Data analysis and visualization | Python, Pandas, Matplotlib |
+| [**Web Scraping**](https://github.com/ozkyhatice/_PYTHON_) | Web scraping and automation | Python, BeautifulSoup |
+| [**API Integration**](https://github.com/ozkyhatice/_PYTHON_) | RESTful API integration | Python, Requests |
+| [**File Processing**](https://github.com/ozkyhatice/_PYTHON_) | File handling and text processing | Python |
 
 ## 🚀 Featured Projects
 

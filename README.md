@@ -41,32 +41,38 @@
   <img src="https://img.shields.io/badge/42-Projects-00599C?style=for-the-badge&logo=42&logoColor=white" alt="42 Projects"/>
 </div>
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Inception**](https://github.com/ozkyhatice/Inception) | Docker infrastructure project with multiple services | Docker, Docker-Compose |
+| [**ft_irc**](https://github.com/ozkyhatice/FT_IRC) | Internet Relay Chat server implementation | C++, Network Programming |
+| [**cub3d**](https://github.com/ozkyhatice/cub3d) | 3D graphical project using raycasting | C, MinilibX |
+| [**NetPractice**](https://github.com/ozkyhatice) | Network configuration and troubleshooting | TCP/IP, Networking |
 
-- [**Inception**](https://github.com/ozkyhatice/Inception) (100) - Docker infrastructure project with multiple services
-- [**ft_irc**](https://github.com/ozkyhatice/FT_IRC) (100) - Internet Relay Chat server implementation
-- [**cub3d**](https://github.com/ozkyhatice/cub3d) (105) - 3D graphical project using raycasting
-- [**NetPractice**](https://github.com/ozkyhatice) (100) - Network configuration and troubleshooting
-- [**CPP Modules**](https://github.com/ozkyhatice/CPP_MODULES_42)
-  - Module 09 (100/100) - STL
-  - Module 08 (100/100) - Templated containers, iterators
-  - Module 07 (100/100) - C++ templates
-  - Module 06 (100/100) - C++ casts
-  - Module 05 (100/100) - Exceptions
-  - Module 04 (100/100) - Subtype polymorphism, abstract classes
-  - Module 03 (100/100) - Inheritance
-  - Module 02 (100/100) - Ad-hoc polymorphism, operator overloading
-  - Module 01 (100/100) - Memory allocation, pointers
-  - Module 00 (100/100) - Namespaces, classes, member functions
-- [**Philosophers**](https://github.com/ozkyhatice/philosophers) (100) - Thread and process synchronization
-- [**minishell**](https://github.com/ozkyhatice/MINISHELL) (101) - Simple shell implementation
-- [**push_swap**](https://github.com/ozkyhatice) (84) - Number sorting algorithm
-- [**so_long**](https://github.com/ozkyhatice) - Small 2D game using MinilibX
-- [**minitalk**](https://github.com/ozkyhatice/minitalk) (100) - Small data exchange program using UNIX signals
-- [**Born2beroot**](https://github.com/ozkyhatice) (110) - System administration and VM setup
-- [**get_next_line**](https://github.com/ozkyhatice/get_next_line) (125) - Function that reads a line from a file descriptor
-- [**ft_printf**](https://github.com/ozkyhatice/FT_PRINTF) (100) - Recreation of printf function
-- [**Libft**](https://github.com/ozkyhatice/_LIBFT_) (122) - Recreation of basic C library functions
-- 
+### 💻 C++ Modules
+| Module | Description | Concepts |
+|--------|-------------|----------|
+| Module 09 | STL | Containers, Algorithms |
+| Module 08 | Templated containers, iterators | Templates, STL |
+| Module 07 | C++ templates | Generic Programming |
+| Module 06 | C++ casts | Type Conversion |
+| Module 05 | Exceptions | Error Handling |
+| Module 04 | Subtype polymorphism, abstract classes | OOP |
+| Module 03 | Inheritance | OOP |
+| Module 02 | Ad-hoc polymorphism, operator overloading | OOP |
+| Module 01 | Memory allocation, pointers | Memory Management |
+| Module 00 | Namespaces, classes, member functions | OOP Basics |
+
+
+| [**Philosophers**](https://github.com/ozkyhatice/philosophers) | Thread and process synchronization | C, Threads |
+| [**minishell**](https://github.com/ozkyhatice/MINISHELL) | Simple shell implementation | C, Process Management |
+| [**push_swap**](https://github.com/ozkyhatice) | Number sorting algorithm | C, Algorithms |
+| [**so_long**](https://github.com/ozkyhatice) | Small 2D game using MinilibX | C, Graphics |
+| [**minitalk**](https://github.com/ozkyhatice/minitalk) | Data exchange program using signals | C, UNIX Signals |
+| [**Born2beroot**](https://github.com/ozkyhatice) | System administration and VM setup | Linux, Bash |
+| [**get_next_line**](https://github.com/ozkyhatice/get_next_line) | File reading function | C, File I/O |
+| [**ft_printf**](https://github.com/ozkyhatice/FT_PRINTF) | Printf function recreation | C, Variadic Functions |
+| [**Libft**](https://github.com/ozkyhatice/_LIBFT_) | C library functions recreation | C, Data Structures |
+
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Development
@@ -102,148 +108,3 @@ A React Native-based volunteer platform designed to support stray animals by con
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ozkyhatice&color=blueviolet" alt="Profile Views" />
 </div>
-
-# StreetPaws Mobile App
-
-StreetPaws, sokak hayvanlarına yardım etmek için oluşturulmuş bir mobil uygulamadır. Gönüllüler, görevleri üstlenebilir, tamamlayabilir ve sokak hayvanlarına yardım ederek XP kazanabilirler.
-
-## Özellikler
-
-- Görev yönetimi (görüntüleme, üstlenme, tamamlama)
-- Kullanıcı kimlik doğrulama
-- QR kod tarama
-- Harita entegrasyonu
-- Gönüllü profil sayfası
-- Bağış sistemi
-
-## Gereksinimler
-
-- Node.js (v14 veya üzeri)
-- npm (v6 veya üzeri)
-- Expo CLI
-- iOS için: Xcode (macOS)
-- Android için: Android Studio ve JDK
-
-## Kurulum
-
-1. Projeyi klonlayın:
-```bash
-git clone https://github.com/ozkyhatice/StreetPaws_MobilApp.git
-cd StreetPaws_MobilApp
-```
-
-2. Bağımlılıkları yükleyin:
-```bash
-npm install
-```
-
-3. Geliştirici istemcisini yükleyin:
-```bash
-npx expo install expo-dev-client
-```
-
-## Bağımlılıklar
-
-Projenin ana bağımlılıkları şunlardır:
-
-```
-"dependencies": {
-  "@react-navigation/bottom-tabs": "^6.5.11",
-  "@react-navigation/native": "^6.1.9",
-  "@react-navigation/native-stack": "^6.9.17",
-  "expo": "~50.0.11",
-  "expo-barcode-scanner": "~12.5.3",
-  "expo-camera": "~13.2.1",
-  "expo-dev-client": "~2.2.1",
-  "expo-location": "~16.1.0",
-  "expo-status-bar": "~1.6.0",
-  "lucide-react-native": "^0.302.0",
-  "react": "18.2.0",
-  "react-native": "0.72.6",
-  "react-native-maps": "1.7.1",
-  "react-native-paper": "^5.11.1",
-  "react-native-safe-area-context": "4.6.3",
-  "react-native-screens": "~3.22.0",
-  "react-native-vector-icons": "^10.0.0"
-}
-```
-
-## Uygulamayı Çalıştırma
-
-Uygulamayı geliştirme modunda başlatmak için:
-
-```bash
-npx expo start
-```
-
-Expo Go uygulaması ile test etmek için:
-
-```bash
-npx expo start --dev-client
-```
-
-iOS simülatöründe çalıştırmak için:
-
-```bash
-npx expo run:ios
-```
-
-Android emülatöründe çalıştırmak için:
-
-```bash
-npx expo run:android
-```
-
-## Notlar ve Sorun Giderme
-
-1. İlk kurulum sırasında expo-dev-client yüklemek gereklidir:
-   ```bash
-   npx expo install expo-dev-client
-   ```
-
-2. iOS'ta "AirGoogleMaps dizini bulunamadı" hatası alırsanız, Google Maps yerine varsayılan harita sağlayıcısını kullanın.
-
-3. QR kod tarayıcısı için kamera izinlerinin verildiğinden emin olun.
-
-4. Expo'nun en son sürümünü kullanmak için düzenli olarak güncelleme yapmanız önerilir:
-   ```bash
-   npm install -g expo-cli
-   ```
-
-## Projeyi Hazırlama ve Derleme
-
-Üretim için APK/IPA oluşturmak için:
-
-```bash
-eas build --platform android
-eas build --platform ios
-```
-
-Önce EAS CLI'yi yüklemeniz gerekebilir:
-
-```bash
-npm install -g eas-cli
-```
-
-## Proje Yapısı
-
-```
-streetpaws/
-├── assets/           # Görsel ve statik dosyalar
-├── src/
-│   ├── components/   # Yeniden kullanılabilir bileşenler
-│   ├── contexts/     # React context dosyaları
-│   ├── hooks/        # Özel hook'lar
-│   ├── navigation/   # Navigasyon yapılandırması
-│   ├── screens/      # Uygulama ekranları
-│   ├── services/     # Veri ve API servisleri
-│   └── types/        # TypeScript tip tanımlamaları
-├── App.tsx           # Ana uygulama bileşeni
-└── package.json      # Paket bağımlılıkları
-```
-
-## Lisans
-
-MIT Lisansı
-
----

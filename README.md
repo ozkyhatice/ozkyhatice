@@ -21,6 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -34,6 +35,38 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozkyhatice&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+## 🎓 42 École Projects
+
+<div align="center">
+  <img src="https://img.shields.io/badge/42-Projects-00599C?style=for-the-badge&logo=42&logoColor=white" alt="42 Projects"/>
+</div>
+
+
+- [**Inception**](https://github.com/ozkyhatice/Inception) (100) - Docker infrastructure project with multiple services
+- [**ft_irc**](https://github.com/ozkyhatice/FT_IRC) (100) - Internet Relay Chat server implementation
+- [**cub3d**](https://github.com/ozkyhatice/cub3d) (105) - 3D graphical project using raycasting
+- [**NetPractice**](https://github.com/ozkyhatice) (100) - Network configuration and troubleshooting
+- [**CPP Modules**](https://github.com/ozkyhatice/CPP_MODULES_42)
+  - Module 09 (100/100) - STL
+  - Module 08 (100/100) - Templated containers, iterators
+  - Module 07 (100/100) - C++ templates
+  - Module 06 (100/100) - C++ casts
+  - Module 05 (100/100) - Exceptions
+  - Module 04 (100/100) - Subtype polymorphism, abstract classes
+  - Module 03 (100/100) - Inheritance
+  - Module 02 (100/100) - Ad-hoc polymorphism, operator overloading
+  - Module 01 (100/100) - Memory allocation, pointers
+  - Module 00 (100/100) - Namespaces, classes, member functions
+- [**Philosophers**](https://github.com/ozkyhatice/philosophers) (100) - Thread and process synchronization
+- [**minishell**](https://github.com/ozkyhatice/MINISHELL) (101) - Simple shell implementation
+- [**push_swap**](https://github.com/ozkyhatice) (84) - Number sorting algorithm
+- [**so_long**](https://github.com/ozkyhatice) - Small 2D game using MinilibX
+- [**minitalk**](https://github.com/ozkyhatice/minitalk) (100) - Small data exchange program using UNIX signals
+- [**Born2beroot**](https://github.com/ozkyhatice) (110) - System administration and VM setup
+- [**get_next_line**](https://github.com/ozkyhatice/get_next_line) (125) - Function that reads a line from a file descriptor
+- [**ft_printf**](https://github.com/ozkyhatice/FT_PRINTF) (100) - Recreation of printf function
+- [**Libft**](https://github.com/ozkyhatice/_LIBFT_) (122) - Recreation of basic C library functions
+- 
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Development
@@ -54,24 +87,6 @@ A React Native-based volunteer platform designed to support stray animals by con
 - 🔧 **Tech Stack**: C#
 - 🎯 **Purpose**: Efficient book tracking and management
 - ⚡ **Features**: Book cataloging, member management, borrowing system
-
-## 🎓 42 École Projects
-
-<div align="center">
-  <img src="https://img.shields.io/badge/42-Projects-00599C?style=for-the-badge&logo=42&logoColor=white" alt="42 Projects"/>
-</div>
-
-### Core Projects
-| Project Name | Description | Status | Score |
-|--------------|-------------|---------|-------|
-| [Libft](https://github.com/ozkyhatice/_LIBFT_) | Recreation of basic C library functions | ✅ Completed | 100 |
-| [ft_printf](https://github.com/ozkyhatice/FT_PRINTF) | Recreation of printf function | ✅ Completed | 100 |
-| [get_next_line](https://github.com/ozkyhatice/get_next_line) | Function that reads a line from a file descriptor | ✅ Completed | 100 |
-| [Minishell](https://github.com/ozkyhatice/MINISHELL) | A simple shell implementation | C |
-| [Philosophers](https://github.com/ozkyhatice/philosophers) | Solution to dining philosophers problem | C |
-| [FT_IRC](https://github.com/ozkyhatice/FT_IRC) | Internet Relay Chat server implementation | C++ |
-| [Inception](https://github.com/ozkyhatice/Inception) | Docker-based service deployment | Docker, PHP |
-| [Born2beroot](https://github.com/ozkyhatice) | System administration and VM setup | Virtual Machine, Linux |
 
 ## 🤝 Connect with Me
 

@@ -67,18 +67,10 @@ A React Native-based volunteer platform designed to support stray animals by con
 | [Libft](https://github.com/ozkyhatice/_LIBFT_) | Recreation of basic C library functions | ✅ Completed | 100 |
 | [ft_printf](https://github.com/ozkyhatice/FT_PRINTF) | Recreation of printf function | ✅ Completed | 100 |
 | [get_next_line](https://github.com/ozkyhatice/get_next_line) | Function that reads a line from a file descriptor | ✅ Completed | 100 |
-
-### Advanced Projects
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
 | [Minishell](https://github.com/ozkyhatice/MINISHELL) | A simple shell implementation | C |
 | [Philosophers](https://github.com/ozkyhatice/philosophers) | Solution to dining philosophers problem | C |
 | [FT_IRC](https://github.com/ozkyhatice/FT_IRC) | Internet Relay Chat server implementation | C++ |
 | [Inception](https://github.com/ozkyhatice/Inception) | Docker-based service deployment | Docker, PHP |
-
-### System Administration
-| Project Name | Description | Skills Gained |
-|--------------|-------------|---------------|
 | [Born2beroot](https://github.com/ozkyhatice) | System administration and VM setup | Virtual Machine, Linux |
 
 ## 🤝 Connect with Me

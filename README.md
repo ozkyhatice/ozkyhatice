@@ -25,15 +25,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozkyhatice&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozkyhatice&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🎓 42 École Projects
 

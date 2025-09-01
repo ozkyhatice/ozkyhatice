@@ -77,8 +77,9 @@
 ### 🌐 Web Development
 #### [Transcendence](https://github.com/ozkyhatice/pong-game)
 A full-stack multiplayer pong game platform developed as part of the 42 curriculum.  
-- 🔧 **Tech Stack**: NestJS, React, TypeScript, WebSockets, SQlite, Docker  
-- ⭐ **Key Features**: Real-time multiplayer matches, user authentication, chat system, tournament mode, responsive UI  
+- 🔧 **Backend**: Fastify (Node.js), SQLite, WebSocket, JWT, Argon2, 2FA (Speakeasy/QR)  
+- 🎨 **Frontend**: TypeScript, Custom Router, Tailwind CSS, BabylonJS  
+- ⭐ **Features**: Real-time matches, authentication + 2FA, chat system, tournaments, responsive 3D UI  
 - 🎯 **Status**: Active Development
 
 ### 📱 Mobile Development

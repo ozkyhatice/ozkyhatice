@@ -6,8 +6,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Engineering Student at Istinye University
-- 💻 Currently studying at 42 Türkiye
+- 🎓 Software Engineer
+- 💻 42 Türkiye
 - 🌱 I'm passionate about developing innovative solutions
 - 🚀 Always eager to learn new technologies
 

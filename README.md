@@ -28,6 +28,34 @@
 
 </div>
 
+## 🚀 Featured Projects
+
+### 🌐 Web Development
+#### [Transcendence](https://github.com/ozkyhatice/pong-game)
+A full-stack multiplayer pong game platform developed as part of the 42 curriculum.  
+- 🔧 **Backend**: Fastify (Node.js), SQLite, WebSocket, JWT, Argon2, 2FA (Speakeasy/QR)  
+- 🎨 **Frontend**: TypeScript, Custom Router, Tailwind CSS, BabylonJS  
+- ⭐ **Features**: Real-time matches, authentication + 2FA, chat system, tournaments, responsive 3D UI  
+- 🎯 **Status**: Active Development
+
+### 📱 Mobile Development
+#### [StreetPaws_MobilApp](https://github.com/ozkyhatice/StreetPaws_MobilApp)
+A React Native-based volunteer platform designed to support stray animals by connecting volunteers, businesses, and organizations.
+- 🔧 **Tech Stack**: React Native, Expo, TypeScript
+- ⭐ **Key Features**: Task management, QR code scanning, Map integration, Donation system
+- 🎯 **Status**: Active Development
+
+### 🌐 Web Development
+#### [Recipe Website](https://github.com/ozkyhatice/recipe-website)
+- 💻 **Tech Stack**: PHP, MySQL
+- 🔑 **Features**: Recipe sharing, user authentication, recipe categories
+- 📝 **Description**: A platform for sharing and discovering recipes
+
+### 📚 Library Management System
+#### [Library Management System](https://github.com/ozkyhatice/library_management_system)
+- 🔧 **Tech Stack**: C#
+- 🎯 **Purpose**: Efficient book tracking and management
+- ⚡ **Features**: Book cataloging, member management, borrowing system
 
 ## 🎓 42 École Projects
 
@@ -75,34 +103,7 @@
 | [**API Integration**](https://github.com/ozkyhatice/_PYTHON_) | RESTful API integration | Python, Requests |
 | [**File Processing**](https://github.com/ozkyhatice/_PYTHON_) | File handling and text processing | Python |
 
-## 🚀 Featured Projects
 
-### 🌐 Web Development
-#### [Transcendence](https://github.com/ozkyhatice/pong-game)
-A full-stack multiplayer pong game platform developed as part of the 42 curriculum.  
-- 🔧 **Backend**: Fastify (Node.js), SQLite, WebSocket, JWT, Argon2, 2FA (Speakeasy/QR)  
-- 🎨 **Frontend**: TypeScript, Custom Router, Tailwind CSS, BabylonJS  
-- ⭐ **Features**: Real-time matches, authentication + 2FA, chat system, tournaments, responsive 3D UI  
-- 🎯 **Status**: Active Development
-
-### 📱 Mobile Development
-#### [StreetPaws_MobilApp](https://github.com/ozkyhatice/StreetPaws_MobilApp)
-A React Native-based volunteer platform designed to support stray animals by connecting volunteers, businesses, and organizations.
-- 🔧 **Tech Stack**: React Native, Expo, TypeScript
-- ⭐ **Key Features**: Task management, QR code scanning, Map integration, Donation system
-- 🎯 **Status**: Active Development
-
-### 🌐 Web Development
-#### [Recipe Website](https://github.com/ozkyhatice/recipe-website)
-- 💻 **Tech Stack**: PHP, MySQL
-- 🔑 **Features**: Recipe sharing, user authentication, recipe categories
-- 📝 **Description**: A platform for sharing and discovering recipes
-
-### 📚 Library Management System
-#### [Library Management System](https://github.com/ozkyhatice/library_management_system)
-- 🔧 **Tech Stack**: C#
-- 🎯 **Purpose**: Efficient book tracking and management
-- ⚡ **Features**: Book cataloging, member management, borrowing system
 
 ## 🤝 Connect with Me
 

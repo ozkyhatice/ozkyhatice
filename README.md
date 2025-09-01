@@ -74,6 +74,13 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Web Development
+#### [Transcendence](https://github.com/ozkyhatice/pong-game)
+A full-stack multiplayer pong game platform developed as part of the 42 curriculum.  
+- 🔧 **Tech Stack**: NestJS, React, TypeScript, WebSockets, SQlite, Docker  
+- ⭐ **Key Features**: Real-time multiplayer matches, user authentication, chat system, tournament mode, responsive UI  
+- 🎯 **Status**: Active Development
+
 ### 📱 Mobile Development
 #### [StreetPaws_MobilApp](https://github.com/ozkyhatice/StreetPaws_MobilApp)
 A React Native-based volunteer platform designed to support stray animals by connecting volunteers, businesses, and organizations.

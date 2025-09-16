@@ -31,7 +31,7 @@
 ## 🚀 Featured Projects
 
 ### 🌐 Web Development
-#### [Transcendence](https://github.com/ozkyhatice/pong-game)
+#### [PONG Game](https://github.com/ozkyhatice/pong-game)
 A full-stack multiplayer pong game platform developed as part of the 42 curriculum.  
 - 🔧 **Backend**: Fastify (Node.js), SQLite, WebSocket, JWT, Argon2, 2FA (Speakeasy/QR)  
 - 🎨 **Frontend**: TypeScript, Custom Router, Tailwind CSS, BabylonJS  

@@ -1,8 +1,5 @@
 # Hi there, I'm Hatice 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5FF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;42+T%C3%BCrkiye+Student;Full+Stack+Developer" alt="Typing SVG" />
-</div>
 
 ##  About Me
 

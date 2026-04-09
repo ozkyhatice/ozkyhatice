@@ -43,42 +43,81 @@ Turning coffee & metal riffs into code 🤘
 
 ##  Featured Projects
 
-###  Test Automation Frameworks
+### Test Automation Frameworks
 
 | Project | Description | Highlights |
 |---|---|---|
-| **ISTQB Automation** | Test design techniques automation | Decision Table & Boundary Value Analysis |
-| **E-Commerce Framework** | UI + API automation framework | Parallel execution & schema validation |
-| **E2E UI Framework** | Scalable Selenium architecture | ThreadLocal Driver & Headless CI |
+| **ISTQB Automation** | Automation project implementing formal test design techniques based on ISTQB principles. | Decision Table Testing, Boundary Value Analysis, structured test coverage |
+| **E-Commerce Framework** | Scalable UI & API automation framework designed for modern e-commerce systems. | Parallel execution, API validation, schema-based assertions |
+| **E2E UI Framework** | Maintainable Selenium-based end-to-end test architecture focused on stability and scalability. | ThreadLocal WebDriver, Page Object Model, Headless CI execution |
+### 🐳 Inception — Infrastructure Virtualization
+
+A system administration project focused on containerizing a complete web infrastructure using Docker.  
+Each service runs inside an isolated container built from scratch on Debian Bullseye, following DevOps and security best practices.
+
+<div align="center">
+<img src="docker.png" alt="Inception Architecture" width="700px" />
+</div>
+
+**Tech Stack**
+- Docker & Docker Compose
+- NGINX (Reverse Proxy)
+- WordPress + PHP-FPM
+- MariaDB
+- Debian Bullseye
+- TLSv1.3
+
+**Architecture Highlights**
+- NGINX configured as HTTPS entry point (port 443 only)
+- Secure internal Docker network for service communication
+- Persistent data management using Docker volumes
+- Hardened database configuration (internal access only)
+- Automated infrastructure lifecycle via Makefile
+
+**Key Concepts**
+- Container isolation
+- Infrastructure as Code
+- Secure networking
+- Persistent storage design
 
 ---
 
-###  Full Stack Development
+### Full Stack Development
 
 #### PONG Game Platform
-Real-time multiplayer platform built in 42 curriculum.
 
-**Tech**
+A real-time multiplayer web application developed within the 42 curriculum, focusing on scalable backend architecture and live communication systems.
+
+**Tech Stack**
 - Fastify (Node.js)
-- WebSocket
-- JWT & 2FA Security
-- TypeScript + BabylonJS
+- WebSocket real-time communication
+- JWT Authentication & 2FA
+- TypeScript
+- BabylonJS
 
-**Features**
-- Live matches
-- Tournament system
-- Modular backend architecture
+**Key Features**
+- Real-time multiplayer matches
+- Tournament management system
+- Modular and scalable backend structure
+- Secure authentication flow
 
 ---
 
-###  Mobile Development
+### Mobile Development
 
 #### StreetPaws Mobile App
-Social responsibility platform connecting volunteers.
 
+A social impact mobile application designed to connect volunteers with local animal support activities through location-based interaction.
+
+**Tech Stack**
 - React Native + Expo
-- QR-based task system
-- Map integration
+- QR-based task tracking
+- Map integration services
+
+**Highlights**
+- Volunteer coordination workflow
+- Real-world interaction via QR system
+- User-friendly mobile-first design
 
 ---
 

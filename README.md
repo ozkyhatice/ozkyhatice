@@ -1,9 +1,9 @@
 # Hi, I'm Hatice 👋
 
- **QA Automation Engineer | Backend Developer**  
- 42 Türkiye  
- Building reliable systems through testing & engineering  
- Turning coffee & metal riffs into code 🤘
+**QA Automation Engineer | Backend Developer**  
+42 Türkiye  
+Building reliable systems through testing & engineering  
+Turning coffee & metal riffs into code 🤘
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend & Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -82,11 +82,9 @@ Social responsibility platform connecting volunteers.
 
 ---
 
-##  GitHub Stats
-
-![Hatice GitHub stats](https://github-readme-stats.vercel.app/api?username=ozkyhatice&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkyhatice&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozkyhatice&color=blueviolet" alt="Profile Views" />
+</div>
 
 ---
 

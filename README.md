@@ -2,7 +2,7 @@
 
 **Software Engineer | QA Automation Engineer**
 42 Türkiye  
-Building reliable software through engineering, automation, and quality practices.
+Building reliable software through engineering, automation, and quality practices.  
 Turning coffee & metal riffs into code 🤘
 
 ---
@@ -26,13 +26,13 @@ Turning coffee & metal riffs into code 🤘
 ![TestNG](https://img.shields.io/badge/TestNG-FFA500?style=for-the-badge&logo=testng&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF5C5C?style=for-the-badge&logo=qameta&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### API & Backend
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -142,3 +142,4 @@ A social impact mobile application designed to connect volunteers with local ani
 
 ---
 
+⭐ *Always improving systems, tests, and myself.*

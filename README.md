@@ -1,6 +1,6 @@
 # Hi, I'm Hatice 👋
 
-**Software Engineer | QA Automation Engineer**
+**Software Engineer | QA Automation Engineer**  
 Building reliable software through engineering, automation, and quality practices.  
 Turning coffee & metal riffs into code 🤘
 

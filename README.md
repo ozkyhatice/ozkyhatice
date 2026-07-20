@@ -1,7 +1,6 @@
 # Hi, I'm Hatice 👋
 
 **Software Engineer | QA Automation Engineer**
-42 Türkiye  
 Building reliable software through engineering, automation, and quality practices.  
 Turning coffee & metal riffs into code 🤘
 
